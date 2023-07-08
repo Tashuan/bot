@@ -1,14 +1,55 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+{
+    "allPurchaseOrdersCount": 95,
+    "purchaseOrderStats": [
+        {
+            "purchaseOrderStatus": "Invoiced",
+            "purchaseOrderCount": 38,
+            "purchaseOrderPercentage": 40
+        },
+        {
+            "purchaseOrderStatus": "Unsent",
+            "purchaseOrderCount": 24,
+            "purchaseOrderPercentage": 25
+        },
+        {
+            "purchaseOrderStatus": "Received",
+            "purchaseOrderCount": 14,
+            "purchaseOrderPercentage": 14
+        },
+        {
+            "purchaseOrderStatus": "Partially Invoiced",
+            "purchaseOrderCount": 8,
+            "purchaseOrderPercentage": 8
+        },
+        {
+            "purchaseOrderStatus": "Paid",
+            "purchaseOrderCount": 3,
+            "purchaseOrderPercentage": 3
+        },
+        {
+            "purchaseOrderStatus": "Exception",
+            "purchaseOrderCount": 3,
+            "purchaseOrderPercentage": 3
+        },
+        {
+            "purchaseOrderStatus": "Submitted",
+            "purchaseOrderCount": 2,
+            "purchaseOrderPercentage": 2
+        },
+        {
+            "purchaseOrderStatus": "Partially Paid",
+            "purchaseOrderCount": 1,
+            "purchaseOrderPercentage": 1
+        },
+        {
+            "purchaseOrderStatus": "Order Acknowledged w/ Modifications",
+            "purchaseOrderCount": 1,
+            "purchaseOrderPercentage": 1
+        },
+        {
+            "purchaseOrderStatus": "Canceled",
+            "purchaseOrderCount": 1,
+            "purchaseOrderPercentage": 1
+        }
+    ]
+}
