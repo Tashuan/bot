@@ -264,57 +264,6 @@
         "vendorName": "HALYARD-DBANAME",
         "createdDate": "2023-06-01T20:44:15.653125Z"
     },
-    ],
-    "purchaseOrderStats": [
-        {
-            "purchaseOrderStatus": "Invoiced",
-            "purchaseOrderCount": 38,
-            "purchaseOrderPercentage": 40
-        },
-        {
-            "purchaseOrderStatus": "Unsent",
-            "purchaseOrderCount": 24,
-            "purchaseOrderPercentage": 25
-        },
-        {
-            "purchaseOrderStatus": "Received",
-            "purchaseOrderCount": 14,
-            "purchaseOrderPercentage": 14
-        },
-        {
-            "purchaseOrderStatus": "Partially Invoiced",
-            "purchaseOrderCount": 8,
-            "purchaseOrderPercentage": 8
-        },
-        {
-            "purchaseOrderStatus": "Paid",
-            "purchaseOrderCount": 3,
-            "purchaseOrderPercentage": 3
-        },
-        {
-            "purchaseOrderStatus": "Exception",
-            "purchaseOrderCount": 3,
-            "purchaseOrderPercentage": 3
-        },
-        {
-            "purchaseOrderStatus": "Submitted",
-            "purchaseOrderCount": 2,
-            "purchaseOrderPercentage": 2
-        },
-        {
-            "purchaseOrderStatus": "Partially Paid",
-            "purchaseOrderCount": 1,
-            "purchaseOrderPercentage": 1
-        },
-        {
-            "purchaseOrderStatus": "Order Acknowledged w/ Modifications",
-            "purchaseOrderCount": 1,
-            "purchaseOrderPercentage": 1
-        },
-        {
-            "purchaseOrderStatus": "Canceled",
-            "purchaseOrderCount": 1,
-            "purchaseOrderPercentage": 1
-        }
     ]
+    
 }
